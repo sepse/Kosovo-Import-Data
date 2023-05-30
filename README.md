@@ -1,5 +1,5 @@
 # Kosovo Import Data :moneybag:  :bar_chart: 	:closed_book: 
-Unveiling Trade Insights by analyzing import data from Kosovo Customs Open Data platform, for the year 2022.
+Unveiling trade insights by analyzing import data from Kosovo Customs Open Data platform, for the year 2022.
 
 ## Introduction
 
