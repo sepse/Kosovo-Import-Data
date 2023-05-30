@@ -10,7 +10,7 @@ A data science research project, analyzing import data from 2022 in Kosovo
 ## Data
 
 
-Dataset can be accessed via this link [Complete Datasets](https://drive.google.com/file/d/1nRqAAEYAyrLrKDBOr3Dfl6yAI0aJMxnu/view?usp=sharing)
+Kosovo Customs Import datasets can be accessed via this link [Complete Datasets](https://dogana.rks-gov.net/per-doganen/statistikat-dhe-arritjet/bilanci-tregtare-bazuar-ne-tarife/)
 
 ## Methodology
 
