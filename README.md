@@ -19,7 +19,13 @@ Kosovo Customs Import datasets can be accessed via this link [Complete Datasets]
 
 ## First Results
 
-![stats](https://github.com/sepse/Noise-Pollution-Prishtina/blob/main/Graphics/stats.png)
+![mapimport](https://github.com/sepse/Kosovo-Import-Data/blob/bd43efb2a9910a27d041f86d6fd746595766640e/Graphics/mapimport.png)
+
+
+![top5](hhttps://github.com/sepse/Kosovo-Import-Data/blob/bd43efb2a9910a27d041f86d6fd746595766640e/Graphics/top5.png)
+
+
+![4chart](https://github.com/sepse/Kosovo-Import-Data/blob/bd43efb2a9910a27d041f86d6fd746595766640e/Graphics/4chart.png)
 
 
 ***For more detailed view on this research, please open the Notebooks, where more granular information is available in the visual and statistical form.***
