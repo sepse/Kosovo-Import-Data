@@ -16,7 +16,7 @@ Overall, analyzing import data through data science methodologies provides valua
 
 ## Objective
 
-
+Take dataset, perform DS
 
 ## Data
 
