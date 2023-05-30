@@ -34,7 +34,7 @@ The data science methodology involves the following:
 - Exploratory data analysis (EDA): Explore the dataset using visualization techniques to understand the patterns and relationships in the data. Plotting histograms, line plots, and scatterplots can help you identify patterns, correlations, and distributions in the data. Use visualizations to understand the distribution of renewable powerplants in the world, and explore the relative capacitites of regional production.
 - Visualization: Use visualizations to present the results of the exploration, create interactive maps showing areas of interest, or provide visualizations that help users understand the patterns of imported goods from certain countries.
 
-**The notebooks:** [Kosovo Import Data](https://github.com/sepse/Kosovo-Import-Data/blob/b5e847cac6f2c2b07eace28740cd7bbdef82c55f/exim_dogana_2022.ipynb)
+**The Notebooks:** [Kosovo Import Data](https://github.com/sepse/Kosovo-Import-Data/blob/b5e847cac6f2c2b07eace28740cd7bbdef82c55f/exim_dogana_2022.ipynb)
 
 ## First Results
 
@@ -48,3 +48,5 @@ The data science methodology involves the following:
 
 
 ***For more detailed view on this research, please open the Notebooks, where more granular information is available in the visual and statistical form.***
+
+**The Notebooks:** [Kosovo Import Data](https://github.com/sepse/Kosovo-Import-Data/blob/b5e847cac6f2c2b07eace28740cd7bbdef82c55f/exim_dogana_2022.ipynb)
