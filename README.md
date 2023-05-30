@@ -35,8 +35,11 @@ All data processing, exploration and visualization will be conducted using Pytho
 The data science methodology involves the following:
 
 Data loading: Load the dataset into the Python notebook using a library like Pandas. The dataset contains import data for the year 2022, with colums such as: Month, Country of Origin, Value of Goods, Type of Goods, Tax Paid, Excise Tax, Weight.
+
 Data cleaning: Check for missing or duplicate values in the dataset and remove or impute them as necessary. Also, check for outliers in the data and remove them if they are not meaningful.
+
 Exploratory data analysis (EDA): Explore the dataset using visualization techniques to understand the patterns and relationships in the data. Plotting histograms, line plots, and scatterplots can help you identify patterns, correlations, and distributions in the data. Use visualizations to understand the distribution of renewable powerplants in the world, and explore the relative capacitites of regional production.
+
 Visualization: Use visualizations to present the results of the exploration, create interactive maps showing areas of interest, or provide visualizations that help users understand the patterns of imported goods from certain countries.
 
 **The notebooks:** [Kosovo Import Data](https://github.com/sepse/Kosovo-Import-Data/blob/b5e847cac6f2c2b07eace28740cd7bbdef82c55f/exim_dogana_2022.ipynb)
