@@ -42,6 +42,9 @@ Thereby we identify Turkey, China, Germany, Serbia and Italy as the countries ac
 
 ![top5](https://github.com/sepse/Kosovo-Import-Data/blob/bd43efb2a9910a27d041f86d6fd746595766640e/Graphics/top5.png)
 
+### Understanding Seasonal Trends
+
+Tabular data and barcharts are good at conveying some forms of information, though why not add a time dimension so we can look if any seasonal patterns emerge by looking at the annual graph, specifically using Area Charts. We see how the top 4 countries compare for the year 2022.
 
 ![4chart](https://github.com/sepse/Kosovo-Import-Data/blob/bd43efb2a9910a27d041f86d6fd746595766640e/Graphics/4chart.png)
 
