@@ -1,9 +1,9 @@
 # Kosovo Import Data :moneybag:  :bar_chart: 	:closed_book: 
-Unveiling trade insights by analyzing import data from Kosovo Customs Open Data platform, for the year 2022.
+Unveiling trade insights by researching import data from Kosovo Customs Open Data platform, for the year 2022.
 
-## Introduction
+## Objective
 
-Analyzing import data using data science methodologies can provide valuable insights and benefits in several ways:
+Analyzing this dataset using data science methodology can provide valuable insights and benefits in several ways:
 
 - Identifying patterns and trends: By analyzing import data, data scientists can identify patterns and trends in the types of goods being imported, the countries of origin, and the values of goods over time. This information can help businesses and policymakers understand the dynamics of international trade, detect emerging market trends, and make informed decisions.
 - Market research and competitiveness: allows businesses to gain a deeper understanding of the market landscape and identify potential opportunities. By examining the types of goods being imported and their values, businesses can assess the competitiveness of their own products or identify areas for improvement. This information can help in strategic planning, product development, and market positioning.
@@ -14,12 +14,8 @@ Analyzing import data using data science methodologies can provide valuable insi
 
 Overall, analyzing import data through data science methodologies provides valuable insights for businesses, governments, and policymakers. It enhances decision-making, improves market understanding, and helps in optimizing supply chains, managing risks, and fostering economic growth.
 
-## Objective
-
-Take dataset, perform DS
 
 ## Data
-
 
 Kosovo Customs Import datasets can be accessed via this link [Complete Datasets](https://dogana.rks-gov.net/per-doganen/statistikat-dhe-arritjet/bilanci-tregtare-bazuar-ne-tarife/)
 
@@ -41,10 +37,13 @@ The data science methodology involves the following:
 ![mapimport](https://github.com/sepse/Kosovo-Import-Data/blob/bd43efb2a9910a27d041f86d6fd746595766640e/Graphics/mapimport.png)
 
 
+
 ![top5](https://github.com/sepse/Kosovo-Import-Data/blob/bd43efb2a9910a27d041f86d6fd746595766640e/Graphics/top5.png)
 
 
 ![4chart](https://github.com/sepse/Kosovo-Import-Data/blob/bd43efb2a9910a27d041f86d6fd746595766640e/Graphics/4chart.png)
+
+Key takeaways from this analysis reveals Kosovo's trade dynamics with its top four import partners: Turkey, Germany, China, and Serbia. Among these countries, oil (fuel) emerges as the dominant import, indicating its crucial role in meeting Kosovo's energy needs. Additionally, the import data highlights the diversified nature of imports, with distinct sectors dominating each partnership. Imports from Serbia are primarily driven by the food industry, showcasing the bilateral trade in agricultural products. Electronics constitute a significant portion of imports from China, reflecting the growing demand for consumer electronics in Kosovo. Furthermore, the import of vehicles from Germany underscores the importance of the automotive industry in meeting transportation needs. By understanding these trade patterns and the specific goods driving imports, businesses and policymakers in Kosovo can leverage this information to optimize trade strategies, foster economic growth, and forge stronger partnerships with these key countries.
 
 
 ***For more detailed view on this research, please open the Notebooks, where more granular information is available in the visual and statistical form.***
